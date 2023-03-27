@@ -5,7 +5,7 @@ Stand alone library for using Matamo tracking in React projects
 ## Installation
 
 ```sh
-npm install @mitresthen/matomo-tracker-react
+yarn add @mitresthen/matomo-tracker-react
 ```
 
 ## Usage

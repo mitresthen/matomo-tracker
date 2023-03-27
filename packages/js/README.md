@@ -5,7 +5,7 @@ Stand alone library for using Matamo tracking in frontend projects
 ## Installation
 
 ```sh
-npm install @mitresthen/matomo-tracker
+yarn add @mitresthen/matomo-tracker
 ```
 
 ## Usage
