@@ -20,7 +20,7 @@
     "declaration": true,
     "declarationMap": true,
     "strictNullChecks": true,
-    "suppressImplicitAnyIndexErrors": true,
+    "suppressImplicitAnyIndexErrors": false,
     "noUnusedLocals": true,
     "allowSyntheticDefaultImports": true,
     "experimentalDecorators": true,
