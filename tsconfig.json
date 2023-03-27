@@ -6,7 +6,7 @@
     "target": "es5",
     "baseUrl": ".",
     "paths": {
-      "@jonkoops/*": ["packages/*/src"]
+      "@mitresthen/*": ["packages/*/src"]
     },
     "composite": true,
     "sourceMap": true,

@@ -1,4 +1,4 @@
-import MatomoTracker, { types } from '@jonkoops/matomo-tracker'
+import MatomoTracker, { types } from '@mitresthen/matomo-tracker'
 
 export interface MatomoInstance {
   trackEvent: MatomoTracker['trackEvent']

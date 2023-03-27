@@ -1,19 +1,19 @@
 {
-  "name": "@jonkoops/matomo-tracker-react",
+  "name": "@mitresthen/matomo-tracker-react",
   "version": "0.7.0",
   "description": "Matomo tracker for react projects",
   "main": "lib/index.js",
   "module": "es/index.js",
   "license": "MPL-2.0",
   "author": "Jon Koops",
-  "homepage": "https://github.com/jonkoops/matomo-tracker#readme",
+  "homepage": "https://github.com/mitresthen/matomo-tracker#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jonkoops/matomo-tracker.git",
+    "url": "git+https://github.com/mitresthen/matomo-tracker.git",
     "directory": "packages/react"
   },
   "bugs": {
-    "url": "https://github.com/jonkoops/matomo-tracker/issues"
+    "url": "https://github.com/mitresthen/matomo-tracker/issues"
   },
   "files": [
     "lib",
@@ -24,7 +24,8 @@
   "sideEffects": false,
   "contributors": [
     "Chris van Mook <chrisvanmook@gmail.com>",
-    "Jon Koops <jonkoops@gmail.com>"
+    "Jon Koops <jonkoops@gmail.com>",
+    "Håvard Haug <haavardhaug@gmail.com>"
   ],
   "keywords": [
     "matomo",
@@ -37,7 +38,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@jonkoops/matomo-tracker": "^0.7.0"
+    "@mitresthen/matomo-tracker": "^0.7.0"
   },
   "peerDependencies": {
     "react": ">= 16.8.0"
